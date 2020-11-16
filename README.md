@@ -1,23 +1,21 @@
 # Intro to Programming Portfolio
 
 ## Adventure Game
-
 A game that demonstrates object-oriented programming principles inheritance, encapsulation, and polymorphism.
+[Lost at Sea](https://github.com/jdavidgunther/LostAtSea)
 
 ## Study Application
-A Study Application that reads in terms and definitions from external files.
+A [Study Application](https://github.com/jdavidgunther/Study-App) that reads in terms and definitions from external files.
 
 ## Explorable Areas
 A command-line application with areas to explore and items for the player to find in each area.
+[Explorable Areas](https://github.com/jdavidgunther/ExplorableAreas)
 
 ## Underwater Creatures
-Underwater Creatures demonstrates inheritance, polymorphism, and encapsulation.
-
-## Adopt An Insect
-An application that lets a player create a custom insect character.
+[Underwater Creatures](https://github.com/jdavidgunther/UnderwaterCreatures) demonstrates inheritance, polymorphism, and encapsulation.
 
 ## Shift Cipher
-Shift Cipher is an application that encodes and decodes using a simple substitution cipher.
+[Shift Cipher](https://github.com/jdavidgunther/ShiftCipher) is an application that encodes and decodes using a simple substitution cipher.
 
 ## Trivia Game
-Trivia Application
+[Trivia Application](https://github.com/jdavidgunther/TriviaGame)
