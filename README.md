@@ -16,8 +16,12 @@ A command-line application with areas to explore and items for the player to fin
 
 ## Shift Cipher
 [Shift Cipher](https://github.com/jdavidgunther/ShiftCipher) is an application that encodes and decodes using a simple substitution cipher.
+
+## Shift Cipher GUI
 [Substitution Cipher](https://github.com/jdavidgunther/SubstitutionCipherGUI) is a GUI version of the Shift Cipher.
 
 ## Trivia Game
 [Trivia Application](https://github.com/jdavidgunther/TriviaGame)
+
+## Trivia Game GUI
 [Trivia Game GUI](https://github.com/jdavidgunther/TriviaGameGUI) GUI version of Trivia Application.
